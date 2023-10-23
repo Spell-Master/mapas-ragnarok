@@ -1,0 +1,8 @@
+SÓ FAÇA EDIÇÕES NO DATA.GRF COM O JOGO FECHADO PARA NÃO CORROMPER O ARQUIVO!
+
+- Instale o GRF editor
+- Faça uma cópia do arquivo data.grf (Por segurança, se fazer errado tem que reinstalar o jogo)
+- Abra o grf editor então selecione o arquivo data.grf
+- Nevegue pelas pasta da grf igual ao nome dos mapas [texture > À¯ÀúÀÎÅÍÆäÀÌ½º > map]
+- Peque todos os mapas/ ou os que quiser arraste e soute dentro da pasta igual que está aberta pelo programa.
+- Clique em arquivo e salvar
